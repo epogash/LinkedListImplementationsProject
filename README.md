@@ -1,4 +1,4 @@
-# LinkedListImplementationsProject
+# Linked List Implementations Project
 This project was done independently for COP 3530 (Data Structures and Algorithms). Each linked list variation was created to adhere to the assignments specification. In addition, each linked list implementation was thoroughly tested using Catch - a C++ unit testing framework. I received an A on this project.
 
 "Simple Singly-Linked List (SSLL)
@@ -23,9 +23,9 @@ Because we don't want the list to waste too much memory, whenever the more than 
 
 In addition, the following checklist was used to ensure all methods were implemented:
 
-"<List variety: Chained Dynamic Array-based List > written by <Pogash>, <Eric>
+List variety: Chained Dynamic Array-based List written by Pogash, Eric
 COP 3530, 2014F <1085>
-======================================================================
+"======================================================================
 Part I:
 ======================================================================
 My LIST implementation uses the data structure described in the part I
