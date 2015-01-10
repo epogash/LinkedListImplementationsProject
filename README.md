@@ -28,7 +28,8 @@ In addition, the following checklist was used to ensure all methods were impleme
 
 List variety: Chained Dynamic Array-based List written by Pogash, Eric
 COP 3530, 2014F <1085>
-"======================================================================
+"
+======================================================================
 Part I:
 ======================================================================
 My LIST implementation uses the data structure described in the part I
