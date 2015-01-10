@@ -1,5 +1,5 @@
 # LinkedListImplementationsProject
-This project was done independently for COP 3530 (Data Structures and Algorithms). Each linked list variation was created to adhere to the assignments specification.
+This project was done independently for COP 3530 (Data Structures and Algorithms). Each linked list variation was created to adhere to the assignments specification. In addition, each linked list implementation was thoroughly tested using Catch - a C++ unit testing framework. I received an A on this project.
 
 "Simple Singly-Linked List (SSLL)
 
